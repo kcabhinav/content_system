@@ -8,5 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-content_system/instance/*
+content_system/instance/db.sqlite3
+!content_system/instance/.gitkeep
 content_system/uv.lock
